@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "dbURL": "",
+    "clientId": "",
+    "environment": "DEV",
+    "__comment": "ONLY DEV / PROD",
+    "guildId": "",
+    "owners": [""],
+    "embedColor": {
+        "default": 2960944
+    }
+}
