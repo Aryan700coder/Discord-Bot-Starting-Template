@@ -1,5 +1,5 @@
 
-# Project Title
+# Discord Bot Starting Template
 
 Best Command & Event Handler along with database! You can use it if you're starting to make a Discord Bot
 ## Installation
